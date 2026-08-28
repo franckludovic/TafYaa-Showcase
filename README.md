@@ -92,7 +92,7 @@ Permissions are enforced both client-side (UI gating) and server-side (Netlify F
 
 ---
 
-**Live Demo:** (Taf'Yaa)[https://tafyaa.netlify.app/]
+**Live Demo:** [Taf'Yaa](https://tafyaa.netlify.app/)
 
 <div align=center>
 
