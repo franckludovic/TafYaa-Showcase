@@ -100,6 +100,6 @@ Permissions are enforced both client-side (UI gating) and server-side (Netlify F
 
 </div>
 
---
+---
 
 **Built with ❤️ to honour African heritage.**
