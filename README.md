@@ -94,9 +94,12 @@ Permissions are enforced both client-side (UI gating) and server-side (Netlify F
 
 **Live Demo:** (Taf'Yaa)[https://tafyaa.netlify.app/]
 
+<div align=center>
+
 <img width="1358" height="6476" alt="image" src="https://github.com/user-attachments/assets/e7c1ac41-d7e5-4966-a131-888b8521b815" />
 
-
+</div>
 
 --
+
 **Built with ❤️ to honour African heritage.**
